@@ -8,3 +8,5 @@ The specific function I used works however you will blue screen when resizing a 
 # credits
 * krispy
 * sariaki (for minor help lol)
+
+![Screenshot](https://raw.githubusercontent.com/krispybyte/peter-swap/main/screenshot.PNG)
