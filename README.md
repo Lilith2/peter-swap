@@ -1,5 +1,5 @@
 # peter-swap
- data pointer swapping
+ Simple data pointer swapping
 
 # info
 Do not expect this bypass to work for anything better than battleye without pointer chaining.
