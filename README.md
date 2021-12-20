@@ -9,4 +9,4 @@ The specific function I used works however you will blue screen when resizing a 
 
 # credits
 * krispy
-* sariaki (for minor help lol)
+* sariaki who helped with some stuff
