@@ -67,7 +67,7 @@ __int64 __fastcall NtUserMoveWindow(void* arg01, void* arg02)
 		}
 	}
 
-	return original_NtUserMoveWindow(arg01, arg02);
+	return STATUS_UNSUCCESSFUL;
 }
 
 extern "C" NTSTATUS DriverEntry()
